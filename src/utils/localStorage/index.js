@@ -20,4 +20,4 @@ export const getData = async key => {
 };
 
 
-export const urlAPI = 'https://detto.zavalabs.com/api';
+export const urlAPI = 'https://dettostore.my.id/api';

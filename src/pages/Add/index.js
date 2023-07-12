@@ -51,6 +51,7 @@ export default function ({ navigation, route }) {
             flex: 1,
             padding: 10,
             justifyContent: 'center',
+            backgroundColor: colors.background1
         }}>
 
 
